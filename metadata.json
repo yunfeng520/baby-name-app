@@ -1,0 +1,6 @@
+{
+  "name": "锦绣良名 · 新生儿国风智能臻选工坊",
+  "description": "高客单、高转化、新中式美学新生儿起名与名理测算SaaS工坊，涵盖生辰八字五行强弱推算、诗经楚辞典籍溯源、三才五格吉凶数理、自媒体裂变级国风满月命名礼书生成与多名字PK比对。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
